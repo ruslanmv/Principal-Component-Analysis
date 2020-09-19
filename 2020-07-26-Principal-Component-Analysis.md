@@ -1,4 +1,16 @@
+---
+title: "Time has come!"
+excerpt: "Welcome to my new website"
+
+header:
+  image: "/assets/images/post1.jpg"
+  teaser: "/assets/images/post1.jpg"
+  caption: "Cinque Terre - Liguria, Italy"
+  
+---
+
 # Principal-Component-Analysis
+
 
 
 The hands on project on Principal Component Analysis with NumPyis divided into following tasks:
@@ -53,3 +65,4 @@ The hands on project on Principal Component Analysis with NumPyis divided into f
 ## Task 8: Project Data Onto Lower-Dimensional Linear Subspace
 
 - Utilize principal component analysis to decompose high dimensional data into two or three dimensions so that each instance can be plotted in a scatter plot.
+
